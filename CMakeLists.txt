@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 4.0)
 
-project(embdGPIO C)
+project(embdContracts C)
 
-add_library(embdGPIO INTERFACE)
-target_include_directories(embdGPIO INTERFACE Inc)
+add_library(embdContracts INTERFACE)
+target_include_directories(embdContracts INTERFACE Inc)
